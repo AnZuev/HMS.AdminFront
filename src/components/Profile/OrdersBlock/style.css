@@ -1,0 +1,24 @@
+.profileBlock__ordersBlock__orderItem{
+    padding: 20px;
+}
+
+.profileBlock__ordersBlock__orderItem button{
+    max-width: 100px;
+}
+
+#profileBlock__ordersBlock{
+
+}
+#profileBlock__ordersBlock >div{
+    width: 50%;
+    background: white;
+    border-radius: 6px;
+    margin: 5px auto;
+    padding: 15px;
+    min-width: 300px;
+}
+
+#profileBlock__ordersBlock hr{
+    border-color: darkgray;
+    margin: 5px;
+}

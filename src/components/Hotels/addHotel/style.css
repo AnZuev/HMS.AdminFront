@@ -1,0 +1,24 @@
+.HotelPage__goToShowHotelsButton{
+    max-width: 200px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+    color: #fff;
+    background-color: #025aa5;
+    border-color: #01549b;
+    -webkit-border-radius: 5px;
+    -moz-border-radius:5px;
+    border-radius:5px;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+#HotelPage__addHotelBlock{
+    margin: 20px;
+    min-width: 300px;
+}
+#HotelPage__addHotelBlock div{
+    padding: 20px;
+    border-radius: 6px;
+    background: white;
+    max-width: 600px;
+}

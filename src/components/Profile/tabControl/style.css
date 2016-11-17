@@ -1,0 +1,27 @@
+.profileBlock__tab{
+    padding: 10px;
+    float: left;
+    margin-bottom:0;
+    width: 50%;
+    text-align: center;
+    cursor: pointer;
+}
+
+.profileBlock__tab__active{
+    background-color: rgba(173, 207, 255, 0.7);
+}
+.profileBlock__tabControl{
+    background: white;
+    max-width: 300px;
+    border-radius: 5px;
+    margin: 0 auto;
+    border: solid 2px orange;
+}
+
+.profileBlock__border-right{
+    border-right: solid orange 1px;
+}
+
+.profileBlock__border-left{
+    border-left: solid orange 1px;
+}
